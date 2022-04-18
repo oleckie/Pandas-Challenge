@@ -10,7 +10,7 @@
 
 5. Push the above changes to GitHub or GitLab.
 
-## Option 1: Heroes of Pymoli
+## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
